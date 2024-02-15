@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    text-align: center;
+    background-image: url("./fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: white;
+}
